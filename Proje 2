@@ -1,0 +1,36 @@
+## [16,21,11,8,12,22] -> Merge Sort
+
+### Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+
+1. Diziyi ikiye böleriz:
+   - Sol yarı: [16,21,11]
+   - Sağ yarı: [8,12,22]
+
+2. Sol ve sağ yarıları sıralarız:
+   - Sol yarı: [11,16,21]
+   - Sağ yarı: [8,12,22]
+
+3. Sıralı yarıları birleştiririz:
+   - Merge: [8,11,12,16,21,22]
+
+### Big-O gösterimini yazınız.
+
+Merge Sort algoritmasının zaman karmaşıklığı O(n log n)'dir.
+## [16,21,11,8,12,22] -> Merge Sort
+
+### Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+
+1. Diziyi ikiye böleriz:
+   - Sol yarı: [16,21,11]
+   - Sağ yarı: [8,12,22]
+
+2. Sol ve sağ yarıları sıralarız:
+   - Sol yarı: [11,16,21]
+   - Sağ yarı: [8,12,22]
+
+3. Sıralı yarıları birleştiririz:
+   - Merge: [8,11,12,16,21,22]
+
+### Big-O gösterimini yazınız.
+
+Merge Sort algoritmasının zaman karmaşıklığı O(n log n)'dir.
